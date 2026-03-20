@@ -29,7 +29,7 @@ Download the `leaflet.radaripma.js` and `leaflet.radaripma.css` files and includ
 <script src="path/to/leaflet.radaripma.js"></script>
 ```
 
-### Via CDN (if you host the files on GitHub or similar)
+### Via CDN
 
 Example using jsDelivr:
 
