@@ -107,4 +107,3 @@ If the API fails (due to CORS or network issues), the plugin automatically falls
 ## License
 
 MIT License. See [LICENSE](LICENSE) file for details.
-```
